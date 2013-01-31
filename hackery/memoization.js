@@ -30,6 +30,6 @@ var test = function (input) {
 
 };
 
-test("something");
-test("other");
-test("something");
+test("something"); //Time: 1001, Value: something else
+test("other"); //Time: 1001, Value: other else
+test("something"); //Time: 0, Value: something else
