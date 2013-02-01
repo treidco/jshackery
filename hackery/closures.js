@@ -96,7 +96,7 @@ function sayAlice() {
 // **Example 7
 // multiple function calls create 
 
-//sayHello("world"); // **Example 1
+sayHello("world"); // **Example 1
 //hiC(); // **Example 2
 //sayNum() // **Example 3
 //runGlobalsTests(); // **Example 4
